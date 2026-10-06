@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# upstream files kept byte-identical (they ship with CRLF)
+LICENSE.md -text
+NOTICE -text
+*.safetensors binary
+*.png binary
+*.jpg binary
